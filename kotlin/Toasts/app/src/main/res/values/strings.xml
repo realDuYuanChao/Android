@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Toasts</string>
+    <string name="hello_world">Hello World!</string>
+    <string name="short_toasts">Short Toasts</string>
+    <string name="long_toasts">Long Toasts</string>
+    <string name="custom_toast">Custom Toast</string>
+    <string name="locked_msg">Locked</string>
+</resources>
