@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Snackbar</string>
+    <string name="delete_msg">Message Deleted</string>
+    <string name="undo">UNDO</string>
+</resources>
